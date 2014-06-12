@@ -182,3 +182,5 @@ qplot(interval, Freq, data = avgStepsNew, facets = dayType ~ .)
 ```
 
 ![plot of chunk differences](figure/differences.png) 
+
+Activity on the weekends tends to be more spread out over the day compared to the weekdays. This is probably because activities on weekdays mostly follow a work related routine, whereas activity on weekends is with relaxed schedule.
